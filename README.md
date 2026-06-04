@@ -1,10 +1,108 @@
-### Hi 👋, I'm Abdurahmon
+<h1 align="center">Hi 👋, I'm Abdurahmon</h1>
+
+<h3 align="center">
+Fullstack Developer | Java & Spring Boot | React & Next.js
+</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Profile GIF">
+I build scalable backend systems, modern web applications, and clean user interfaces.
+<br />
+I enjoy working with Java, Spring Boot, PostgreSQL, React, Next.js, and TypeScript.
+</p>
+
+<p align="center">
+  <a href="https://t.me/MirmaxsudovAbdurahmon">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/therlAbdurahmon">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+## About Me
+
+- 🔭 I’m focused on building fullstack web applications
+- 🌱 I’m improving my skills in system design, Spring Security, cloud deployment, and scalable backend architecture
+- 💬 Ask me about Java, Spring Boot, REST APIs, React, Next.js, PostgreSQL, and authentication systems
+- 🧠 I enjoy solving backend architecture problems and building clean frontend experiences
+- ⚡ Goal: build useful products with reliable code and great user experience
+
+---
+
+## Core Strengths
+
+- Designing REST APIs with clean structure and maintainable business logic
+- Building secure authentication and authorization flows with JWT, OAuth2, and Spring Security
+- Creating responsive frontend interfaces with React, Next.js, TypeScript, TailwindCSS, and shadcn/ui
+- Working with relational and NoSQL databases such as PostgreSQL, MySQL, and MongoDB
+- Connecting backend, frontend, database, and deployment workflows into complete applications
+
+---
+
+## Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+### Database & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## What I Build
+
+- Backend systems with Java, Spring Boot, REST APIs, JWT, and OAuth2
+- Fullstack web applications with React, Next.js, TypeScript, and TailwindCSS
+- Admin dashboards and role-based access systems
+- Database-driven applications using PostgreSQL, MySQL, and MongoDB
+- Clean, responsive, and user-friendly web interfaces
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mirmaxsudov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mirmaxsudov&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmaxsudov&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirmaxsudov/mirmaxsudov/output/github-snake-dark.svg" />
@@ -14,47 +112,17 @@
 
 ---
 
-## 🧰 Tech Stack
+## Connect With Me
 
-### 🖥️ Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth2](https://img.shields.io/badge/OAuth2-%23000000.svg?style=for-the-badge&logo=oauth&logoColor=white)
+<p>
+  <a href="https://t.me/MirmaxsudovAbdurahmon">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/therlAbdurahmon">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/nodejs-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ DevOps
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirmaxsudov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mirmaxsudov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
----
-
-## Connect with Me 🤝
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therlAbdurahmon)
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/MirmaxsudovAbdurahmon)
-
----
-
-![](https://komarev.com/ghpvc/?username=mirmaxsudov)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mirmaxsudov&style=for-the-badge&color=blueviolet" />
+</p>
