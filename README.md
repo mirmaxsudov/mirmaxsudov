@@ -89,15 +89,46 @@ I enjoy working with Java, Spring Boot, PostgreSQL, React, Next.js, and TypeScri
 
 ---
 
+Your README code is okay. The issue is this service:
+
+github-readme-stats.vercel.app
+In your screenshot, only these are broken:
+
+github-readme-stats.vercel.app/api
+github-readme-stats.vercel.app/api/top-langs
+But this one works:
+
+streak-stats.demolab.com
+So replace your GitHub Stats section with this more reliable version:
+
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mirmaxsudov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=mirmaxsudov&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirmaxsudov&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmaxsudov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=mirmaxsudov&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirmaxsudov&theme=tokyonight"
+    alt="Top Languages by Repo"
+  />
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirmaxsudov&theme=tokyonight"
+    alt="Top Languages by Commit"
+  />
 </p>
 
 ---
@@ -114,12 +145,21 @@ I enjoy working with Java, Spring Boot, PostgreSQL, React, Next.js, and TypeScri
 
 ## Connect With Me
 
-<p>
+<p align="center">
   <a href="https://t.me/MirmaxsudovAbdurahmon">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdurahmon-mirmaxsudov-0a301227b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/abdurahmonmirmaxsudov2804/">
+    <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://gitlab.com/abdurahmonmirmaxsudov2804">
+    <img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://instagram.com/therlAbdurahmon">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
