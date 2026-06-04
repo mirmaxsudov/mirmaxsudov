@@ -89,18 +89,6 @@ I enjoy working with Java, Spring Boot, PostgreSQL, React, Next.js, and TypeScri
 
 ---
 
-Your README code is okay. The issue is this service:
-
-github-readme-stats.vercel.app
-In your screenshot, only these are broken:
-
-github-readme-stats.vercel.app/api
-github-readme-stats.vercel.app/api/top-langs
-But this one works:
-
-streak-stats.demolab.com
-So replace your GitHub Stats section with this more reliable version:
-
 ## GitHub Stats
 
 <p align="center">
@@ -113,8 +101,8 @@ So replace your GitHub Stats section with this more reliable version:
 <p align="center">
   <img
     height="170"
-    src="https://streak-stats.demolab.com?user=mirmaxsudov&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mirmaxsudov&theme=tokyonight&hide_border=true"
+    alt="Abdurahmon's GitHub streak"
   />
 </p>
 
